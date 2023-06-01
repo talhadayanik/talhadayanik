@@ -5,7 +5,7 @@
 
 - A Flappy Bird clone for learning purposes [Flappy Cat](https://play.google.com/store/apps/details?id=com.suicult.flappycat)
 
-- How to reach me **htalha@hotmail.com**
+- 📫 How to reach me **htalha@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
