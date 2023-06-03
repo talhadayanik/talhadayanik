@@ -3,7 +3,7 @@
 
 - A block puzzle game [Zenblock](https://play.google.com/store/apps/details?id=com.suicult.zenblock)
 
-- A Flappy Bird clone for learning purposes [Flappy Cat](https://play.google.com/store/apps/details?id=com.suicult.flappycat)
+- A Flappy Bird clone for learning purposes [Flappy Cat](https://play.google.com/store/apps/details?id=com.suicult.flappycat) (source code available in repositories)
 
 - 📫 How to reach me **htalha@hotmail.com**
 
