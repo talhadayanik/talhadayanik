@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Talha Dayanık</h1>
-<h3 align="center">Mobile Developer, Game/Graphics Programming Enthusiast</h3>
+<h3 align="center">Game/Graphics Programmer, Mobile Developer</h3>
 
 - A block puzzle game [Zenblock](https://play.google.com/store/apps/details?id=com.suicult.zenblock)
 
